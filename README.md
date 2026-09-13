@@ -4,8 +4,8 @@ Team Members: 1. Muhammad Fareed Bin Ezani
               3. Natasya Binti Roslan
               4. Syakir Zufayrin Bin Khairul Faizal
 Problem Statement: Stress & Workload Manager
-Video Presentation: https://youtu.be/jYAkPtYTAV8?si=QgJCYUamldredvbJ 
-Presentation Slides: 
+Video Presentation: https://youtu.be/nAUp9JYwCXA?si=tauQnu1D3smdBvvJ  
+Presentation Slides: https://canva.link/k6jdch8m6k3kao4
 
 # 1 - Project Overview
 
@@ -55,25 +55,25 @@ Key Features
 
 Early Sketches
 
-![Early Sketch 1](assets/sketch-1.png)
+![Early Sketch 1](assets/sketch-1.jpg)
 
 *Initial rough exploration of Buddy's interface and possible feature directions.*
 
-![Early Sketch 2](assets/sketch-2.png)
+![Early Sketch 2](assets/sketch-2.jpg)
 
 *Early exploration of the battery and workload concept.*
 
-![Early Sketch 3](assets/sketch-3.png)
+![Early Sketch 3](assets/sketch-3.jpg)
 
 *Additional rough ideas explored during the early ideation stage.*
 
 Mind Maps
 
-![Mind Map 1](assets/mindmap-1.png)
+![Mind Map 1](assets/mindmap-1.jpg)
 
 *Initial exploration of the student burnout problem, including workload, stress, responsibilities, and possible solution directions.*
 
-![Mind Map 2](assets/mindmap-2.png)
+![Mind Map 2](assets/mindmap-2.jpg)
 
 *Further development of potential Buddy features and ways to differentiate the product.*
 
@@ -91,7 +91,7 @@ Screen Flow
 | **8/9/2026** | **Faris Imran** | - Reviewed our **first Buddy prototype**.<br>- Feedback: the prototype lacked **"kick and spice."**<br>- Some parts felt **too draggy** and needed a more engaging experience. | - Explored more interactive features while keeping Buddy recovery-focused.<br>- Developed **Buddy Club, Buddy Rescue, Daily Reset Wheel, recovery activities, and Activity Snap**.<br>- Simplified the main journey to make interactions more direct. |
 | **9/9/2026** | **Stephan Khor** | - Presented the **first draft of the Buddy Club prototype**.<br>- Suggested making the interface more **minimalist** because some areas looked compact and crowded.<br>- Suggested changing the Brain Dump upload icon because it could be confusing to users. | - Improved spacing and visual hierarchy.<br>- Reduced unnecessary visual elements to create a cleaner interface.<br>- Refined the Brain Dump upload interaction/icon to make its purpose clearer. |
 | **12/9/2026** | **Faris Imran** | - Reviewed the updated prototype.<br>- Suggested improving some design elements, particularly the **colour treatment on Screens 3 and 20**.<br>- Said the prototype was progressing well.<br>- Suggested creating a clear **screen flow** so judges could better understand the prototype. | - Refined colour consistency on the relevant screens.<br>- Organized the prototype into a complete **23-screen flow**.<br>- Structured the journey as **Brain Dump → AI Processing → Capacity → Load Breakdown → Rebalancing → Buddy Club → Recovery**. |
-| **13/9/2026** | **Stephan Khor** | TBA | TBA |
+| **13/9/2026** | **Stephan Khor** | - Reviewed our updated Buddy prototype and overall presentation materials.<br>- Suggested improving the **System Architecture Design** so the technical structure and relationship between Buddy's components are clearer.<br>- Encouraged us to refine the architecture before the final submission.<br>- Wished the team **good luck** for the hackathon. | - Improved the **System Architecture Design** to clearly show how the **Mobile App, AI Layer, Capacity Engine, and Buddy features** connect.<br>- Clarified the flow from **Brain Dump → AI Processing → Load Estimation → Daily Capacity → Rebalancing & Recovery**.<br>- Refined the architecture diagram to make the technical implementation easier for judges to understand. |
 
 # 3 - Design & Prototype
 
@@ -188,7 +188,7 @@ System Architecture Diagram
 
 The architecture follows Buddy's core flow: User Input → AI Processing → Capacity Engine → Recommendation → Buddy Action.
 
-![Buddy System Architecture](assets/Buddy-App-System-Architecture.png)
+![Buddy System Architecture](assets/Buddy-App-System-Architecture.jpg)
 
 Figure 1. Buddy's system architecture showing how user input is processed through AI services and the Capacity Engine to generate workload, rebalancing, recovery, and social support actions.
 
