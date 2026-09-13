@@ -1,7 +1,7 @@
 # Buddy - AI Personal Companion by Samsan Tech<br>
-Team Members: 1. Muhammad Fareed Bin Ezani<br>
-              2. Nurain Batrissya Binti Yahya<br>
-              3. Natasya Binti Roslan<br>
+Team Members: 1. Muhammad Fareed Bin Ezani,
+              2. Nurain Batrissya Binti Yahya,
+              3. Natasya Binti Roslan,
               4. Syakir Zufayrin Bin Khairul Faizal<br>
 Problem Statement: Stress & Workload Manager<br>
 Video Presentation: https://youtu.be/nAUp9JYwCXA?si=tauQnu1D3smdBvvJ <br> 
