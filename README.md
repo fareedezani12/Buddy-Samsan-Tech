@@ -4,7 +4,7 @@ Team Members: 1. Muhammad Fareed Bin Ezani
               3. Natasya Binti Roslan
               4. Syakir Zufayrin Bin Khairul Faizal
 Problem Statement: Stress & Workload Manager
-Video Presentation: 
+Video Presentation: https://youtu.be/jYAkPtYTAV8?si=QgJCYUamldredvbJ 
 Presentation Slides: 
 
 # 1 - Project Overview
@@ -54,13 +54,17 @@ Key Features
 ## 2.2 - Ideation Boards
 ## 2.3 - Mentor Consultation
 
+### 2.3 Mentor Consultation
+
+### 2.3 Mentor Consultation
+
 | Date | Mentor | Feedback Received | What Was Changed |
 |---|---|---|---|
-| **4/9/2026** | **Faris Imran** | Asked us to explore existing apps and solutions to identify new ideas that could make Buddy more unique and stand out. | We researched existing productivity and wellness apps and identified opportunities to differentiate Buddy through the **Daily Battery, five load dimensions, Buddy Club, Buddy Rescue, and recovery-focused features**. |
-| **8/9/2026** | **Faris Imran** | - Lack of "kick and spice"<br>- Prototype felt too draggy. | We added more engaging interactions and social elements, including **Buddy Club, Buddy Rescue, Daily Reset Wheel, recovery missions, and Activity Snap**. We also streamlined the main user flow to make the experience more direct. |
-| **9/9/2026** | **Stephan Khor** | - Asked us to improve and organize the prototype interface using a more minimalist design because the current design looked compact and crowded.<br>- Suggested changing the upload button icon in Brain Dump because it could be confusing to users. | We simplified the interface, improved spacing and visual hierarchy, and refined the Brain Dump upload interaction to make the purpose of the icon clearer. |
-| **12/9/2026** | **Faris Imran** | - Suggested changing some design elements, particularly the colours on Screens 3 and 20.<br>- Said the prototype was progressing well and suggested creating a screen flow to make the experience easier for judges to understand. | We refined the visual design and colour consistency of the relevant screens and documented the **23-screen user flow** to clearly show how Buddy works from Brain Dump → Capacity → Rebalancing → Recovery → Social Support. |
-| **13/9/2026** | **Stephan Khor** | tba | tba |
+| **4/9/2026** | **Faris Imran** | - First consultation focused on our **ideation and mindmap**, not the prototype.<br>- Presented early ideas such as **Brain Dump** and **Face Scanner for Burnout Detection**.<br>- Suggested exploring existing applications to find ideas that could make Buddy more unique and stand out. | - Explored existing productivity and wellness applications.<br>- Developed the **Daily Battery / capacity concept** and five workload dimensions.<br>- Explored social and recovery features to strengthen Buddy's uniqueness.<br>- Later dropped the **Face Scanner** idea due to feasibility and product direction. |
+| **8/9/2026** | **Faris Imran** | - Reviewed our **first Buddy prototype**.<br>- Feedback: the prototype lacked **"kick and spice."**<br>- Some parts felt **too draggy** and needed a more engaging experience. | - Explored more interactive features while keeping Buddy recovery-focused.<br>- Developed **Buddy Club, Buddy Rescue, Daily Reset Wheel, recovery activities, and Activity Snap**.<br>- Simplified the main journey to make interactions more direct. |
+| **9/9/2026** | **Stephan Khor** | - Presented the **first draft of the Buddy Club prototype**.<br>- Suggested making the interface more **minimalist** because some areas looked compact and crowded.<br>- Suggested changing the Brain Dump upload icon because it could be confusing to users. | - Improved spacing and visual hierarchy.<br>- Reduced unnecessary visual elements to create a cleaner interface.<br>- Refined the Brain Dump upload interaction/icon to make its purpose clearer. |
+| **12/9/2026** | **Faris Imran** | - Reviewed the updated prototype.<br>- Suggested improving some design elements, particularly the **colour treatment on Screens 3 and 20**.<br>- Said the prototype was progressing well.<br>- Suggested creating a clear **screen flow** so judges could better understand the prototype. | - Refined colour consistency on the relevant screens.<br>- Organized the prototype into a complete **23-screen flow**.<br>- Structured the journey as **Brain Dump → AI Processing → Capacity → Load Breakdown → Rebalancing → Buddy Club → Recovery**. |
+| **13/9/2026** | **Stephan Khor** | TBA | TBA |
 
 # 3 - Design & Prototype
 # 4 - What Makes It Different
