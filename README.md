@@ -103,53 +103,53 @@ UI Prototype
 
 Key Screens
 
-1. Daily Battery — See What You Can Carry
+1) Daily Battery & Load Breakdown — See What You Can Carry
 
-![Buddy Daily Battery](assets/daily-battery.png)
+![Buddy Daily Battery](assets/daily-battery.jpg)
 
-The Daily Battery represents the user's **estimated remaining daily capacity**. It helps answer the question: *"How much can I realistically carry today?"*
+The Daily Battery represents the user's **estimated remaining daily capacity**. Alongside it, Buddy shows five load dimensions — **Mental, Time, Physical, Social, and Errands** — to help users understand what is making their day heavy.
 
-2. Load Breakdown — Understand What Makes the Day Heavy
+2) Brain Dump — Unload Without Organizing
 
-![Buddy Load Breakdown](assets/load-breakdown.png)
+![Buddy Brain Dump](assets/brain-dump.jpg)
 
-The battery shows what capacity remains, while the five load dimensions — **Mental, Time, Physical, Social, and Errands** — show what is contributing to the workload.
+Users can quickly unload what's on their mind through **text, voice, images, or links** without manually organizing everything. Buddy then processes the input to identify relevant commitments and information.
 
-3. Brain Dump — Unload Without Organizing
+3) Capacity Decision — Decide What to Carry
 
-![Buddy Brain Dump](assets/brain-dump.png)
+![Buddy Capacity Decision](assets/capacity-decision.jpg)
 
-Users can quickly unload commitments through **text, voice, images, or links** without manually organizing them. Buddy then uses AI to identify relevant tasks and information.
+Buddy shows how a commitment affects the user's available capacity and provides clear choices: **move it to another day, mark it as completed, or drop the commitment**. Instead of simply telling users what to do, Buddy helps them decide what they can realistically carry.
 
-4. AI Commitment Extraction — Understand the Load
+4) Rebalance Capacity — Carry Less
 
-![Buddy AI Processing](assets/ai-processing.png)
+![Buddy Rebalance Capacity](assets/rebalance-capacity.jpg)
 
-Buddy processes the user's Brain Dump and identifies commitments, dates, and estimated workload before organizing them into structured items.
+When a user's capacity becomes too low, Buddy suggests moving a commitment to a lighter day. A **capacity preview** shows how the decision can improve the user's available capacity before they confirm it.
 
-5. My Day — Rebalance Commitments
+5) Buddy Club — Recover Together
 
-![Buddy My Day](assets/my-day.png)
+![Buddy Club](assets/buddy-club.jpg)
 
-Users can review their commitments in a daily timeline and make decisions such as **moving or delaying a commitment** when their capacity becomes too low.
+Buddy Club introduces a social recovery layer where friends can share supportive capacity information and recovery activities. Unlike competitive productivity apps, Buddy focuses on **support rather than rankings, streaks, or competition**.
 
-6. Buddy Club — Recover Together
+6) Buddy Rescue — Support a Friend
 
-![Buddy Club](assets/buddy-club.png)
+![Buddy Rescue](assets/buddy-rescue.jpg)
 
-Buddy Club introduces a social recovery layer where friends can see supportive capacity information and encourage each other without competitive leaderboards or productivity rankings.
+When a friend may be struggling, Buddy Rescue allows users to send a supportive nudge and suggest simple recovery actions such as **touching grass, drinking water, listening to one song, or taking a short break**.
 
-7. Buddy Rescue — Support a Friend
+7) Micro-Recovery Mission — Actionable Recovery
 
-![Buddy Rescue](assets/buddy-rescue.png)
+![Buddy Micro-Recovery Mission](assets/micro-recovery-mission.jpg)
 
-When a friend is struggling, Buddy Rescue allows users to send a supportive nudge and suggest a simple recovery activity.
+When a particular load area becomes critical, Buddy can suggest a short recovery mission. The example encourages the user to step away from studying and complete a **10-minute outside reset**, turning recovery into a simple and actionable step.
 
-8. Daily Reset — Recovery Instead of More Productivity
+8) Daily Reset — Let Buddy Choose
 
-![Buddy Daily Reset](assets/daily-reset.png)
+![Buddy Daily Reset](assets/daily-spin.jpg)
 
-When capacity is low, the Daily Reset Wheel provides simple recovery activities such as **taking a break, going outside, drinking water, or doing nothing**. The goal is to reward recovery rather than encourage users to do more.
+When the user feels overwhelmed, the Daily Reset Wheel provides simple recovery micro-actions such as **Breathe, Grass, Song, and Water**. The feature is designed to make recovery quick and low-effort rather than adding another productivity task.
 
 # 4 - What Makes It Different
 
