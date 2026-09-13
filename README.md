@@ -29,37 +29,46 @@ Key Features
 
 | Idea | Decision & Rationale |
 |---|---|
-| **Brain Dump** |  **Chosen** — Eliminates the friction of manual task entry by allowing students to unload thoughts through voice, text, images, or links before organizing them. |
-| **Daily Battery** |  **Chosen** — Uses a familiar battery metaphor to represent remaining daily capacity, making workload easier to understand at a glance. |
-| **Load Breakdown (5 Dimensions)** |  **Chosen** — Visualizes workload across Mental, Time, Physical, Social, and Errands, helping students identify *why* they feel overloaded. |
-| **My Day + Load Balancer** |  **Chosen** — Allows students to rebalance their schedule by moving, delaying, or dropping commitments while updating their remaining capacity. |
-| **Buddy Club & Buddy Rescue** |  **Chosen** — Creates a non-competitive support system where friends can encourage recovery instead of comparing productivity. |
-| **Daily Reset Wheel** |  **Chosen** — Provides quick, low-effort recovery activities for students when their capacity becomes low. |
-| **Face Scanner for Burnout Detection** |  **Dropped** — Camera-based burnout detection was considered unreliable, raised privacy concerns, and could not accurately measure emotional wellbeing. |
-| **Battery Forecast** |  **Dropped** — Predicting future energy levels required too many assumptions about user behaviour, reducing accuracy and feasibility for the MVP. |
-| **Email Auto-Import** |  **Deferred** — Automatically importing assignments from email was valuable, but considered a future enhancement rather than a core launch feature. |
-| **Points / XP & Leaderboards** |  **Dropped** — Competitive gamification conflicted with Buddy’s recovery-first philosophy and could increase pressure rather than reduce it. |
-| **Daily Streaks** |  **Dropped** — Missing a streak could create guilt and anxiety, making the experience less supportive for students already feeling overwhelmed. |
+| **Brain Dump** |  **Chosen** - Eliminates the friction of manual task entry by allowing students to unload thoughts through voice, text, images, or links before organizing them. |
+| **Daily Battery** |  **Chosen** - Uses a familiar battery metaphor to represent remaining daily capacity, making workload easier to understand at a glance. |
+| **Load Breakdown (5 Dimensions)** |  **Chosen** - Visualizes workload across Mental, Time, Physical, Social, and Errands, helping students identify *why* they feel overloaded. |
+| **My Day + Load Balancer** |  **Chosen** - Allows students to rebalance their schedule by moving, delaying, or dropping commitments while updating their remaining capacity. |
+| **Buddy Club & Buddy Rescue** |  **Chosen** - Creates a non-competitive support system where friends can encourage recovery instead of comparing productivity. |
+| **Daily Reset Wheel** |  **Chosen** - Provides quick, low-effort recovery activities for students when their capacity becomes low. |
+| **Face Scanner for Burnout Detection** |  **Dropped** - Camera-based burnout detection was considered unreliable, raised privacy concerns, and could not accurately measure emotional wellbeing. |
+| **Battery Forecast** |  **Dropped** - Predicting future energy levels required too many assumptions about user behaviour, reducing accuracy and feasibility for the MVP. |
+| **Email Auto-Import** |  **Deferred** - Automatically importing assignments from email was valuable, but considered a future enhancement rather than a core launch feature. |
+| **Points / XP & Leaderboards** |  **Dropped** - Competitive gamification conflicted with Buddy’s recovery-first philosophy and could increase pressure rather than reduce it. |
+| **Daily Streaks** |  **Dropped** - Missing a streak could create guilt and anxiety, making the experience less supportive for students already feeling overwhelmed. |
 
 | Design Idea | Decision & Rationale |
 |---|---|
-| **Battery as the main visual** |  **Chosen** — A familiar battery metaphor makes remaining capacity immediately understandable without requiring users to interpret complex data. |
-| **5 Load Dimensions** |  **Chosen** — Mental, Time, Physical, Social, and Errands provide a simple way to understand what is contributing to overall workload. |
-| **Floating Battery Button** |  **Chosen** — Keeps the user's capacity visible and accessible throughout the main experience without taking up permanent screen space. |
-| **Minimal, warm visual style** |  **Chosen** — A calm interface was selected to make Buddy feel supportive rather than like another stressful productivity tool. |
-| **Recovery-first interactions** |  **Chosen** — Recovery actions are intentionally simple and low-effort so users are not given another demanding task to complete. |
-| **Competitive leaderboards** |  **Dropped** — A competitive visual design conflicted with Buddy's goal of reducing pressure and supporting wellbeing. |
-| **Complex data visualizations** |  **Dropped** — Radar charts and dense dashboards were avoided because they increase cognitive load when users are already overwhelmed. |
+| **Battery as the main visual** |  **Chosen** - A familiar battery metaphor makes remaining capacity immediately understandable without requiring users to interpret complex data. |
+| **5 Load Dimensions** |  **Chosen** - Mental, Time, Physical, Social, and Errands provide a simple way to understand what is contributing to overall workload. |
+| **Floating Battery Button** |  **Chosen** - Keeps the user's capacity visible and accessible throughout the main experience without taking up permanent screen space. |
+| **Minimal, warm visual style** |  **Chosen** - A calm interface was selected to make Buddy feel supportive rather than like another stressful productivity tool. |
+| **Recovery-first interactions** |  **Chosen** - Recovery actions are intentionally simple and low-effort so users are not given another demanding task to complete. |
+| **Competitive leaderboards** |  **Dropped** - A competitive visual design conflicted with Buddy's goal of reducing pressure and supporting wellbeing. |
+| **Complex data visualizations** |  **Dropped** - Radar charts and dense dashboards were avoided because they increase cognitive load when users are already overwhelmed. |
 
 ## 2.2 - Ideation Boards
 ## 2.3 - Mentor Consultation
+
+| Date | Mentor | Feedback Received | What Was Changed |
+|---|---|---|---|
+| **4/9/2026** | **Faris Imran** | Asked us to explore existing apps and solutions to identify new ideas that could make Buddy more unique and stand out. | We researched existing productivity and wellness apps and identified opportunities to differentiate Buddy through the **Daily Battery, five load dimensions, Buddy Club, Buddy Rescue, and recovery-focused features**. |
+| **8/9/2026** | **Faris Imran** | - Lack of "kick and spice"<br>- Prototype felt too draggy. | We added more engaging interactions and social elements, including **Buddy Club, Buddy Rescue, Daily Reset Wheel, recovery missions, and Activity Snap**. We also streamlined the main user flow to make the experience more direct. |
+| **9/9/2026** | **Stephan Khor** | - Asked us to improve and organize the prototype interface using a more minimalist design because the current design looked compact and crowded.<br>- Suggested changing the upload button icon in Brain Dump because it could be confusing to users. | We simplified the interface, improved spacing and visual hierarchy, and refined the Brain Dump upload interaction to make the purpose of the icon clearer. |
+| **12/9/2026** | **Faris Imran** | - Suggested changing some design elements, particularly the colours on Screens 3 and 20.<br>- Said the prototype was progressing well and suggested creating a screen flow to make the experience easier for judges to understand. | We refined the visual design and colour consistency of the relevant screens and documented the **23-screen user flow** to clearly show how Buddy works from Brain Dump → Capacity → Rebalancing → Recovery → Social Support. |
+| **13/9/2026** | **Stephan Khor** | tba | tba |
+
 # 3 - Design & Prototype
 # 4 - What Makes It Different
 
-1) Multi-Pillar Load vs. Time-Only Planning — Buddy looks beyond schedules by tracking workload across five dimensions: Mental, Time, Physical, Social, and Errands. This helps students understand what is making their day heavy, not just how full their calendar is.
-2) Effortless Brain Dump — Instead of manually creating and organizing tasks, users can unload commitments through voice, text, images, or links. Buddy’s AI extracts relevant details such as tasks, dates, deadlines, and estimated workload, reducing the friction of planning.
-3) Buddy Rescue: Social Support, Not Competition — Buddy Club lets friends support each other through a shared battery/capacity system. Instead of leaderboards, XP, or productivity streaks that can add pressure, Buddy encourages friends to notice when someone is struggling and send supportive recovery nudges.
-4) Actionable Recovery Nudges — Buddy does not stop at showing that a user is overloaded. When capacity becomes low, it suggests realistic actions such as taking a break, delaying a lower-priority commitment, or using the Daily Reset Wheel to recover.
+1) Multi-Pillar Load vs. Time-Only Planning - Buddy looks beyond schedules by tracking workload across five dimensions: Mental, Time, Physical, Social, and Errands. This helps students understand what is making their day heavy, not just how full their calendar is.
+2) Effortless Brain Dump - Instead of manually creating and organizing tasks, users can unload commitments through voice, text, images, or links. Buddy’s AI extracts relevant details such as tasks, dates, deadlines, and estimated workload, reducing the friction of planning.
+3) Buddy Rescue: Social Support, Not Competition - Buddy Club lets friends support each other through a shared battery/capacity system. Instead of leaderboards, XP, or productivity streaks that can add pressure, Buddy encourages friends to notice when someone is struggling and send supportive recovery nudges.
+4) Actionable Recovery Nudges - Buddy does not stop at showing that a user is overloaded. When capacity becomes low, it suggests realistic actions such as taking a break, delaying a lower-priority commitment, or using the Daily Reset Wheel to recover.
 
 | | Tiimo | Buddy |
 |---|---|---|
@@ -75,21 +84,25 @@ Key Features
 
 Tech Stack
 
-| Layer | Technology | Why We Chose It | Expected Constraints |
-|---|---|---|---|
-| **Frontend** | React Native (Expo) | Enables rapid cross-platform development for iOS and Android while making it easier to prototype and iterate quickly. | Some platform-specific UI and notification behaviour may require additional configuration. |
-| **Backend** | Node.js / Express | Provides lightweight API routing for task processing, capacity calculations, rebalancing logic, and notifications. | Requires us to manage API logic and deployment separately from the database. |
-| **Database** | Supabase (PostgreSQL) | Provides authentication, structured data storage, and real-time updates that support features such as Squad Battery. | Free-tier usage and real-time workloads may limit scalability during larger usage. |
-| **AI Service** | Gemini API | Used to process unstructured Brain Dump inputs and extract tasks, dates, and estimated workload from text, voice, and images. | AI outputs may occasionally be inaccurate, so extracted tasks and load estimates need validation and sensible defaults. |
-| **Hosting** | Vercel / Supabase Cloud | Provides simple cloud deployment for the backend API and database without requiring dedicated server infrastructure. | Free-tier limits may apply to API requests, database usage, and deployment resources. |
+| Layer | Technology | Purpose & Why We Chose It |
+|---|---|---|
+| **Frontend** | Flutter | Used to build Buddy as a cross-platform mobile application for iOS and Android. Flutter allows us to rapidly prototype and maintain a consistent interface across platforms. |
+| **Backend API** | FastAPI (Python) | Handles API routing, authentication, business logic, capacity calculations, and communication between the mobile app and external services. FastAPI was chosen for its lightweight structure and fast development. |
+| **Database** | Firebase Cloud Firestore | Stores users, commitments, capacity data, recovery activities, and social/squad data. Firestore also supports real-time updates for Buddy Club features. |
+| **Authentication** | Firebase Authentication | Provides secure user authentication and account management without requiring us to build authentication infrastructure from scratch. |
+| **AI / LLM** | Gemini API | Processes Brain Dump inputs and extracts commitments, dates, times, task categories, and estimated workload from unstructured user input. |
+| **Speech-to-Text** | Whisper | Converts voice Brain Dump input into text before it is processed by the AI layer. |
+| **OCR / Vision** | Google Vision API | Extracts useful text and information from uploaded images when users use image-based Brain Dump input. |
+| **File Storage** | Firebase Cloud Storage | Stores user-uploaded images, voice recordings, and Activity Snapshots. |
+| **Notifications** | Firebase Cloud Messaging (FCM) | Supports notifications and Buddy Rescue interactions between users. |
 
 System Architecture Diagram
 
-The architecture follows Buddy's core flow: Commitments → Load → Capacity → Decision → Recovery.
+The architecture follows Buddy's core flow: User Input → AI Processing → Capacity Engine → Recommendation → Buddy Action.
 
-![Buddy System Architecture](assets/buddy-system-architecture.png)
+![Buddy System Architecture](assets/Buddy-App-System-Architecture.png)
 
-Figure 1. Buddy's system architecture connecting the React Native app, Gemini AI service, Node.js/Express backend, Supabase database, and Buddy's capacity and recovery logic.
+Figure 1. Buddy's system architecture showing how user input is processed through AI services and the Capacity Engine to generate workload, rebalancing, recovery, and social support actions.
 
 Build Plan & Scope
 
