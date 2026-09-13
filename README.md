@@ -77,7 +77,7 @@ Mind Maps
 
 *Further development of potential Buddy features and ways to differentiate the product.*
 
-Screen Flow
+User Flow
 
 ![Buddy Screen Flow](assets/screen-flow.png)
 
