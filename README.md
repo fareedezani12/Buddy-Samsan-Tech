@@ -52,11 +52,38 @@ Key Features
 | **Complex data visualizations** |  **Dropped** - Radar charts and dense dashboards were avoided because they increase cognitive load when users are already overwhelmed. |
 
 ## 2.2 - Ideation Boards
+
+Early Sketches
+
+![Early Sketch 1](assets/sketch-1.png)
+
+*Initial rough exploration of Buddy's interface and possible feature directions.*
+
+![Early Sketch 2](assets/sketch-2.png)
+
+*Early exploration of the battery and workload concept.*
+
+![Early Sketch 3](assets/sketch-3.png)
+
+*Additional rough ideas explored during the early ideation stage.*
+
+Mind Maps
+
+![Mind Map 1](assets/mindmap-1.png)
+
+*Initial exploration of the student burnout problem, including workload, stress, responsibilities, and possible solution directions.*
+
+![Mind Map 2](assets/mindmap-2.png)
+
+*Further development of potential Buddy features and ways to differentiate the product.*
+
+Screen Flow
+
+![Buddy Screen Flow](assets/screen-flow.png)
+
+*The final screen flow showing how Buddy evolved into a complete experience from Brain Dump → AI Processing → Capacity → Rebalancing → Buddy Club → Recovery.*
+
 ## 2.3 - Mentor Consultation
-
-### 2.3 Mentor Consultation
-
-### 2.3 Mentor Consultation
 
 | Date | Mentor | Feedback Received | What Was Changed |
 |---|---|---|---|
@@ -67,6 +94,63 @@ Key Features
 | **13/9/2026** | **Stephan Khor** | TBA | TBA |
 
 # 3 - Design & Prototype
+
+## 3. Design & Prototype
+
+UI Prototype
+
+**Public Prototype:** https://buddystudentcompanion.netlify.app/
+
+Key Screens
+
+1. Daily Battery — See What You Can Carry
+
+![Buddy Daily Battery](assets/daily-battery.png)
+
+The Daily Battery represents the user's **estimated remaining daily capacity**. It helps answer the question: *"How much can I realistically carry today?"*
+
+2. Load Breakdown — Understand What Makes the Day Heavy
+
+![Buddy Load Breakdown](assets/load-breakdown.png)
+
+The battery shows what capacity remains, while the five load dimensions — **Mental, Time, Physical, Social, and Errands** — show what is contributing to the workload.
+
+3. Brain Dump — Unload Without Organizing
+
+![Buddy Brain Dump](assets/brain-dump.png)
+
+Users can quickly unload commitments through **text, voice, images, or links** without manually organizing them. Buddy then uses AI to identify relevant tasks and information.
+
+4. AI Commitment Extraction — Understand the Load
+
+![Buddy AI Processing](assets/ai-processing.png)
+
+Buddy processes the user's Brain Dump and identifies commitments, dates, and estimated workload before organizing them into structured items.
+
+5. My Day — Rebalance Commitments
+
+![Buddy My Day](assets/my-day.png)
+
+Users can review their commitments in a daily timeline and make decisions such as **moving or delaying a commitment** when their capacity becomes too low.
+
+6. Buddy Club — Recover Together
+
+![Buddy Club](assets/buddy-club.png)
+
+Buddy Club introduces a social recovery layer where friends can see supportive capacity information and encourage each other without competitive leaderboards or productivity rankings.
+
+7. Buddy Rescue — Support a Friend
+
+![Buddy Rescue](assets/buddy-rescue.png)
+
+When a friend is struggling, Buddy Rescue allows users to send a supportive nudge and suggest a simple recovery activity.
+
+8. Daily Reset — Recovery Instead of More Productivity
+
+![Buddy Daily Reset](assets/daily-reset.png)
+
+When capacity is low, the Daily Reset Wheel provides simple recovery activities such as **taking a break, going outside, drinking water, or doing nothing**. The goal is to reward recovery rather than encourage users to do more.
+
 # 4 - What Makes It Different
 
 1) Multi-Pillar Load vs. Time-Only Planning - Buddy looks beyond schedules by tracking workload across five dimensions: Mental, Time, Physical, Social, and Errands. This helps students understand what is making their day heavy, not just how full their calendar is.
